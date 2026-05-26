@@ -1,0 +1,7 @@
+print("hello world")
+
+print ("my name is Prahalad")
+
+print ("I love playing chess")
+
+print ("the result of 3+5 is:", 3 + 5)
